@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WuTommyA4Q2",
+            "request": "launch",
+            "mainClass": "WuTommyA4Q2",
+            "projectName": "COMP2140A4Q2_ff351dce"
+        }
+    ]
+}
