@@ -1,0 +1,17 @@
+Using ordered array
+Elapsed time: 0.894494279 seconds.
+12524 words.
+Search finished in 0.001043485 seconds.
+84 words found, 16 words not found.
+
+Using open addressing
+Elapsed time: 0.405336267 seconds.
+21003 words.
+Search finished in 1.56084E-4 seconds.
+77 words found, 23 words not found.
+
+Using separate chaining
+Elapsed time: 0.396920523 seconds.
+12540 words.
+Search finished in 1.52026E-4 seconds.
+84 words found, 16 words not found.
